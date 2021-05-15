@@ -1,0 +1,85 @@
+---
+title: "Scientifique Reporting "
+author: "Groupe 144"
+date: "14.05.21"
+output:
+  pdf_document:
+    toc: true
+#theme: united
+    
+---
+
+
+
+```{r setup, include=FALSE}
+
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+```{css, include= FALSE}
+
+h1{color:blue}
+h2{color:green}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+*requirements for the written report*
+*in pdf, max 4 pages, font:11pt*
+
+# **Groupe Project (title) *(be imaginative but precise)* **
+
+Participants: "Camille Blaise, Joana Schaller, Noémie Sandjo, Livia Courteaud, Luisa Lendi"
+*The name of the participants in the group*
+
+
+## Description of the task 
+*A description of the task that was assigned to the group*
+
+
+
+## Motivation and utility of the task 
+
+*A motivation of what such a task can bring as additional knowledge, possibly compared to other
+approaches*
+
+## Task, and Code 
+
+```{r
+*code insert here* 
+}
+```
+
+## Description and interpretation of the obtained results 
+*A description and interpretation of the obtained results*
+
+
+## Evaluation of results
+*An explanation on why the obtained results were expected or not*
+
+## statistical methods
+*An explanation on the statistical methods that were used and if they can be used in other contexts
+that the ones of the term project*
+
+## acquired skills 
+
+*A description of the skills acquired during the execution of the term project*
+
+*at least one additional element, that will be evaluated
+for its originality and relevance*
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
