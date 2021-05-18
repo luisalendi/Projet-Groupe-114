@@ -13,6 +13,8 @@ Hi, how are you?
 
 good thanks <3 
 
+omg yess
+
 ```{r setup, include=FALSE}
 
 
